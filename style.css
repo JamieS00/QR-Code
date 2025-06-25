@@ -1,0 +1,15 @@
+body {
+  background-color: #d5e1ef;
+}
+
+.container {
+  padding: 16px 16px 16px 40px;
+  border-radius: 20px;
+  background: white;
+  width: fit-content;
+  height: fit-content;
+}
+
+.container img {
+  border-radius: 20px;
+}
