@@ -20,6 +20,8 @@ body {
   color: #1f314f;
   font-style: bold;
   font-size: 22px;
+  font-family: "Outfit", sans-serif;
+  font-weight: bold;
   text-align: center;
   line-height: 1.2;
 }
