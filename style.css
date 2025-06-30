@@ -28,7 +28,8 @@ body {
 
 .container p {
   color: #68778d;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
   font-size: 15px;
   line-height: 1.5;
-  text-align: center;
 }
