@@ -3,13 +3,30 @@ body {
 }
 
 .container {
-  padding: 16px 16px 16px 40px;
-  border-radius: 20px;
+  padding: 40px 16px 16px 16px;
+  border-radius: 10px;
   background: white;
-  width: fit-content;
-  height: fit-content;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  max-width: 600px;
 }
 
 .container img {
   border-radius: 20px;
+}
+
+.container h1 {
+  color: #1f314f;
+  font-style: bold;
+  font-size: 22px;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.container p {
+  color: #68778d;
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
 }
